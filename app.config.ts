@@ -1,6 +1,6 @@
 export default defineAppConfig({
   docus: {
-    title: "摳Sense讀書會筆記",
+    title: "study note",
     description: "The best place to start your documentation.",
     image:
       "https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png",
@@ -21,8 +21,8 @@ export default defineAppConfig({
     },
     github: {
       branch: "master",
-      owner: "codesensegroup",
-      repo: "code-study",
+      owner: "Architecture-Hunters",
+      repo: "system-study",
       edit: true,
     },
   },

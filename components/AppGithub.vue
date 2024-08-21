@@ -2,7 +2,7 @@
   <NuxtLink
     rel="noopener noreferrer"
     title="github"
-    href="https://github.com/codesensegroup/code-study"
+    href="https://github.com/Architecture-Hunters/system-study"
     target="_blank"
   >
     <Icon name="mdi:github" />

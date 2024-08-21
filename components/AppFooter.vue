@@ -24,8 +24,8 @@ watch(route, (to, from) => {
   <footer
     class="h-20 relative w-full z-20 text-center flex flex-col items-center justify-center"
   >
-    <div class="font-light">© 2022 Code Sense</div>
-    <div class="busuanzi flex">
+    <div class="font-light">© 2024 Architecture-Hunters</div>
+    <!-- <div class="busuanzi flex">
       <span class="flex" id="busuanzi_container_site_uv">
         <IconUser class="mt-1 mr-1 w-4 h-4" />
         <span class="site-uv" title="訪客總數">
@@ -39,7 +39,7 @@ watch(route, (to, from) => {
           <span id="busuanzi_value_site_pv"></span>
         </span>
       </span>
-    </div>
+    </div> -->
   </footer>
 </template>
 

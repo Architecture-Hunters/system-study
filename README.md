@@ -1,4 +1,4 @@
-# Code Sense
+# Architecture Hunters
 
 ## Environment Requirements
 
@@ -31,4 +31,4 @@ npm run dev
 
 ## Github Page
 
-[code-study](https://codesensegroup.github.io/code-study/)
+[system-study](https://github.com/Architecture-Hunters/system-study)
